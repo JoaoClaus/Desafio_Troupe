@@ -1,3 +1,3 @@
 # Desafio_Troupe
 
-teste
+## Desafio proposto para projeto com o objetivo de desenvolver API REST para manipulação de dados
